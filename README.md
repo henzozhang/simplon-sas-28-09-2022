@@ -10,5 +10,9 @@
 6 modification sur remote
 6 modification sur pc
 nous allons faire un confit de branch
+<<<<<<< HEAD
 ma deuxieme branch
 
+=======
+nous allons faire un autre confit
+>>>>>>> main
