@@ -7,4 +7,5 @@
 3erm modificaiton sur pc 
 4erm modification sur pc avec synchoniser
 5 modification sur remote
+6 modification sur remote
 6 modification sur pc
